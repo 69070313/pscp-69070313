@@ -18,7 +18,7 @@
 OJ2996 - สลับตัวอักษร
 ```
 
-OJ submission ID ถ้ามีการส่งแล้ว:
+OJ submission ID ถ้ามีการส่งแล้ว: 543414
 
 ```text
 
